@@ -7,7 +7,7 @@ nav.menu-bar {
     background: #88c1d9;
 }
 
-ul {
+#container ul {
     display: flex;
     background: #88c1d9;
     list-style: none;
@@ -15,7 +15,7 @@ ul {
     padding-left: 0;
 }
 
-li {
+#container li {
     color: #fff;
     background: #88c1d9;
     display: block;
